@@ -71,14 +71,11 @@ body {
 #header {
   background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
   height: 350px;
-  background-position: center;
+  background-size: cover;
 
 
 }
 
-#header img {
-  size: 75%;
-}
 
 h1 {
   color: white;
