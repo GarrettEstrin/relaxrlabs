@@ -209,8 +209,8 @@ footer h1 {
 footer img {
   margin: 15px 10px 15px 10px;
   height: 15px;
-
 }
+
 
 #copywrite {
   color: white;
@@ -223,11 +223,6 @@ a:link, a:visited, a:hover, a:active {
   color: inherit;
 }
 
-/*#yellowstripe a {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}*/
 
 /******************************************
 /* ADDITIONAL STYLES
