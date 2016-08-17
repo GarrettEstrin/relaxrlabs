@@ -195,7 +195,7 @@ ul {
 
 footer {
   background-color: #121212;
-  height: 175px;
+  height: 165px;
   text-align: center;
 
 }
@@ -207,7 +207,8 @@ footer h1 {
 }
 
 footer img {
-  margin: 10px;
+  margin: 15px 10px 15px 10px;
+  height: 15px;
 
 }
 
